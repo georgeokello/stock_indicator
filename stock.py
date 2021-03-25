@@ -104,7 +104,7 @@ plt.xlabel('Date')
 plt.show()
 
 
-# plot the chart RSI
+# plot the chart RS Index
 column_list = ['RSI']
 file[column_list].plot(figsize=(12.2, 6.4))
 plt.title('RSI for googl')
